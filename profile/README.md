@@ -1,3 +1,5 @@
-Create Public README
+yudady/.github is a special repository: this README.md will appear on your public organization profile, visible to anyone.
 
-Create a public repository called .github. Once created, add a /profile/README.md. The README will appear on your organization's profile, visible to anyone.
+location : yudady/.github/profile/README.md
+
+
