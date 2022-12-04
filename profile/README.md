@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ---------
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yudady)](https://github.com/yudady/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yudady01)](https://github.com/yudady01/github-readme-stats)
 
 ---------
 🎉 **Welcome to my GitHub profile!**
