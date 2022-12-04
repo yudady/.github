@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 🎉 **Welcome to my GitHub profile!**
 
 <a href="https://github.com/yudady">
-  <img style="width:55%" src="https://github-readme-stats.vercel.app/api?username=yudady&count_private=true&show_icons=true&theme=radical&hide=prs" />
-  <img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudady&layout=compact&theme=radical"/>
+  <img style="width:55%" src="https://github-readme-stats.vercel.app/api?username=yudady01&count_private=true&show_icons=true&theme=radical&hide=prs" />
+  <img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudady01&layout=compact&theme=radical"/>
 </a>
 
 ------
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 
 <a target="_blank" href="https://github.com/yudady/dockfiles.git" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yudady&repo=dockfiles&theme=nightowl&cache_seconds=1802" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yudady01&repo=dockfiles&theme=nightowl&cache_seconds=1802" />
