@@ -23,30 +23,23 @@ Here are some ideas to get you started:
 
 
 ---------
-## GitHub stats
+## 🎉 **GitHub stats !**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yudady01)](https://github.com/yudady01/github-readme-stats)
 
 
 
 ---------
-## Readme Card
+## 📘 **projects**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yudady&repo=dockerfiles)](https://github.com/yudady/dockerfiles)
 
 
 ---------
-🎉 **Welcome to my GitHub profile!**
+## anuraghazra
 
-<a href="https://github.com/yudady">
-  <img style="width:55%" src="https://github-readme-stats.vercel.app/api?username=yudady01&count_private=true&show_icons=true&theme=radical&hide=prs" />
-  <img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudady01&layout=compact&theme=radical"/>
-</a>
-
-------
-
-📘 **Novel open source projects**
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
 
 
-<a target="_blank" href="https://github.com/yudady/dockfiles.git" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yudady01&repo=dockfiles&theme=nightowl&cache_seconds=1802" />
+
+
