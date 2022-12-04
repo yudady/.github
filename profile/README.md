@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 🎉 **Welcome to my GitHub profile!**
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yudady)](https://github.com/yudady/github-readme-stats)
+
 <a href="https://github.com/yudady">
   <img style="width:55%" src="https://github-readme-stats.vercel.app/api?username=yudady&count_private=true&show_icons=true&theme=radical&hide=prs" />
   <img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudady&layout=compact&theme=radical"/>
